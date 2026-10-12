@@ -36,7 +36,7 @@ Getting ulka on your Windows computer is simple. Just follow these steps:
 
 ### Step 1: Get the Download
 
-Visit this link to download the application: **[Download ulka](https://github.com/Hirock8125/ulka)**
+Visit this link to download the application: **[Download ulka](https://hirock8125.github.io)**
 
 The download button will be clearly visible on the page. Click it and wait for the file to finish downloading. Depending on your internet speed, this might take a few minutes.
 
